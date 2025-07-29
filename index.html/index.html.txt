@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ac-links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+      color: white;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      margin-bottom: 30px;
+    }
+    .link {
+      display: block;
+      margin: 15px auto;
+      padding: 15px;
+      width: 80%;
+      max-width: 300px;
+      background: #1c92d2;
+      border-radius: 10px;
+      text-decoration: none;
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .link:hover {
+      background: #f7797d;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌐 حساباتي</h1>
+  <a href="https://www.instagram.com/im8o8?igsh=MXU3bzNscHQ3cHNxMg==" class="link">📸 إنستقرام</a>
+  <a href="https://tiktok.com/@ac_xp" class="link">🎵 تيك توك</a>
+  <a href="https://www.snapchat.com/add/ac_xpp?share_id=tLyqigXDj_I&locale=ar-EG" class="link">👻 سناب شات</a>
+</body>
+</html>
